@@ -13,10 +13,10 @@ OUTPUT: 3
 
 INPUT: ABC
 
-OUTPUT:
-ABC
-ACB
-BAC
-BCA
-CBA
+OUTPUT:<br>
+ABC<br>
+ACB<br>
+BAC<br>
+BCA<br>
+CBA<br>
 CAB
